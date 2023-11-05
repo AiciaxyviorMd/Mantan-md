@@ -87,5 +87,5 @@ You can add more features, fix bugs, or anything else.
 [Baileys](https://github.com/WhiskeySockets/Baileys)
 [Alicia](https://github.com/AiciaxyviorMd)
 [zeltoria](https://github.com/Zeltoria)
-[david.stefen(https://github.com/Davidrose)
+[david.stefen](https://github.com/Davidrose)
 [surajana](https://github.com/nat9h)
